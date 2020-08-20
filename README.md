@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/nachiket_j99_/">
   <img align="left" alt="Nachiket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact)
