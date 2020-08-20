@@ -17,4 +17,15 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
+<a href="https://linkedin.com/in/nachiket-joshi-developer">
+  <img align="left" alt="Nachiket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/nachiketjoshi19">
+  <img align="left" alt="Nachiket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/nachiket_j99_/">
+  <img align="left" alt="Nachiket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact)
