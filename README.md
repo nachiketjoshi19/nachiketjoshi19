@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </a>
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact)
-![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact&theme=onedark)
+![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&count_private=true&show_icons=true&theme=onedark)
