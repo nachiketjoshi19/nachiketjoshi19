@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&show_icons=true)
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="nachiketjoshi19" /> </p>
 
 <a href="https://linkedin.com/in/nachiket-joshi-developer">
   <img align="left" alt="Nachiket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
