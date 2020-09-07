@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&show_icons=true)
+![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="nachiketjoshi19" /> </p>
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact&theme=tokyonight)
-![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
+
