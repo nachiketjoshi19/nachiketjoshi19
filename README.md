@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="nachiketjoshi19" /> </p>
 
 <a href="https://linkedin.com/in/nachiket-joshi-developer">
-  <img align="left" alt="Nachiket's Linkdein" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="Nachiket's Linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://github.com/nachiketjoshi19">
   <img align="left" alt="Nachiket's Github" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" />
 </a>
 <a href="https://instagram.com/nachiket_j99_/">
   <img align="left" alt="Nachiket's Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384063.svg" />
+</a>
+<a href="mailto:nachiketjoshi61@gmail.com">
+  <img align="left" alt="Nachiket's gmail" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
 </a>
 <br/><br/>
 
