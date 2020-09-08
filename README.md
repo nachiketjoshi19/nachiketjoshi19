@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketjoshi19&label=Views&color=blue&style=plastic" alt="nachiketjoshi19" /> </p>
 
-<a href="https://linkedin.com/in/nachiket-joshi-developer">
+<a target="_blank" href="https://linkedin.com/in/nachiket-joshi-developer">
   <img align="left" alt="Nachiket's Linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://github.com/nachiketjoshi19">
