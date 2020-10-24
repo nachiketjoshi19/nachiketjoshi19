@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachiketjoshi19&layout=compact&theme=tokyonight)
 
 <br>
-/*<a href="https://github.com/nachiketjoshi19?tab=repositories">
+<!--<a href="https://github.com/nachiketjoshi19?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiketjoshi19&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Niharika's github stats"/>
-</a>*/
+</a>-->
 
